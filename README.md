@@ -30,9 +30,16 @@ The **Fractal System Model (FSM) Framework** is an implementation of the Univers
 2. Explore [Case Studies](docs/CaseStudies/)
 3. Join [Research Discussions](../../discussions)
 
-## License
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
-See [LICENSE](LICENSE) for full terms.
+## 📜 License
+
+**FSM is licensed under CC-BY-NC 4.0 (Creative Commons Attribution-NonCommercial).**
+
+- ✅ **Permitted:** Research, education, private applications, non-commercial projects
+- 🔒 **Commercial use:** Requires separate licensing agreement
+- 📖 **Full license:** See [LICENSE.md](LICENSE.md)
+
+⚠️ **Important:** This repository uses a custom LICENSE.md file because 
+GitHub does not natively support CC-BY-NC 4.0 licensing.
 
 ## Citation
 ```bibtex
