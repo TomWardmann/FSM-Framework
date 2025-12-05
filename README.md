@@ -6,6 +6,10 @@
 
 ⚠️ **PUBLICATION IN PROGRESS** ⚠️
 
+> **🚨 Important Migration Notice:**  
+> FSM research and development has migrated from `spinalfrac` to `FSM-Framework`.  
+> The legacy repository remains available for historical reference, but **all future work continues here**.
+
 ## Overview
 The **Fractal System Model (FSM) Framework** is an implementation of the Universal Emergence Theory for complex system analysis and transformation orchestration.
 
