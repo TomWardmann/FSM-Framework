@@ -30,6 +30,17 @@ The **Fractal System Model (FSM) Framework** is an implementation of the Univers
 2. Explore [Case Studies](docs/CaseStudies/)
 3. Join [Research Discussions](../../discussions)
 
+## 🧠 Neurodiverse Foundation
+
+FSM emerges from **neurodiverse pattern recognition** - decades of seeing systems 
+where others saw chaos. As a highly functional autistic mind, **Thomas Wardemann** 
+developed the intuitive foundations of FSM long before its digital formalization.
+
+This neurodiverse perspective is not incidental but **fundamental** to FSM's ability 
+to identify universal emergence patterns across domains.
+
+[Read the full exploration in our Zenodo paper →](https://doi.org/10.5281/zenodo.17162880)
+
 ## 📜 License
 
 **FSM is licensed under CC-BY-NC 4.0 (Creative Commons Attribution-NonCommercial).**
