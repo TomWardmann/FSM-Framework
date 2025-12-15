@@ -1,0 +1,15 @@
+# FSM 8.9.2 - Core Dependencies
+# Minimal set for basic D8-D9 analysis
+
+# Numerical computing (D8 Mahalanobis calculations)
+numpy>=1.21.0
+
+# Graph analysis (D9 structural integrity)  
+networkx>=2.6.3
+
+# Statistical functions (D8 p-values)
+scipy>=1.7.0
+
+# Optional: For future advanced features
+# scikit-learn>=1.0.0  # Machine learning integration
+# matplotlib>=3.5.0    # Visualization (for case studies)
