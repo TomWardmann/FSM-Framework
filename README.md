@@ -23,6 +23,7 @@
 As a highly functional autistic mind, **Thomas Wardemann developed the intuitive foundations of FSM** long before its digital formalization. This neurodiverse perspective is **not incidental but fundamental** to FSM's ability to identify universal emergence patterns across domains.
 
 *Read the full exploration in our Zenodo paper → [FSM 8.9.2 Paper](https://zenodo.org/record/17928571)*
+*The "First" FSM - Paper on Zenodo -> [FSM Theory](https://zenodo.org/record/17162880)*
 
 ## 🌟 What is FSM?
 
