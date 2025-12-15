@@ -1,68 +1,97 @@
-# 🌀 FSM-Framework
-### **Fractal System Model v8.9.1 "Universal Emergence Bridge"**
+# 🌀 FSM (Framework for Systemic Metareflection)
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+**A meta-reflective, emergence-oriented framework for complex system analysis and co-creative intelligence.**
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17928571.svg)](https://doi.org/10.5281/zenodo.17928571)
-
-⚠️ **PUBLICATION IN PROGRESS** ⚠️
-
-> **🚨 Important Migration Notice:**  
-> FSM research and development has migrated from `spinalfrac` to `FSM-Framework`.  
-> The legacy repository remains available for historical reference, but **all future work continues here**.
-
-## Overview
-The **Fractal System Model (FSM) Framework** is an implementation of the Universal Emergence Theory for complex system analysis and transformation orchestration.
-
-## Current Status
-- **Version:** 8.9.1 "Universal Emergence Bridge"
-- **Status:** Pre-release (full publication on Zenodo pending)
-- **Framework:** Complete Universal Emergence Theory implementation
-
-## Quick Links
-- **[Zenodo Preprint](https://doi.org/10.5281/zenodo.17162880)** – Academic publication
-- **[Documentation](docs/FSM_v8.9.1_Manual.md)** – Complete framework manual
-- **[Case Studies](docs/CaseStudies/)** – Practical applications
-
-## Core Components
-- **Universal Elements:** [E1]-[E10] + Reality Levels
-- **Dynamic Forces:** [D1]-[D9] + Emergence Potential (EP)
-- **Meta-Patterns:** 267+ principles for system transformation
-- **Operational Tools:** S(t) calculator, EP analyzer, TC(t) metrics
-
-## Getting Started
-1. Read the [Quick Start Guide](docs/QuickStart.md)
-2. Explore [Case Studies](docs/CaseStudies/)
-3. Join [Research Discussions](../../discussions)
+[![OpenAIRE](https://img.shields.io/badge/OpenAIRE-EU_Research_Infrastructure-blue)](https://explore.openaire.eu)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## 🧠 Neurodiverse Foundation
 
-FSM emerges from **neurodiverse pattern recognition** - decades of seeing systems 
-where others saw chaos. As a highly functional autistic mind, **Thomas Wardemann** 
-developed the intuitive foundations of FSM long before its digital formalization.
+**FSM emerges from neurodiverse pattern recognition** - decades of seeing systems where others saw chaos. 
 
-This neurodiverse perspective is not incidental but **fundamental** to FSM's ability 
-to identify universal emergence patterns across domains.
+As a highly functional autistic mind, **Thomas Wardemann developed the intuitive foundations of FSM** long before its digital formalization. This neurodiverse perspective is **not incidental but fundamental** to FSM's ability to identify universal emergence patterns across domains.
 
-[Read the full exploration in our Zenodo paper →](https://doi.org/10.5281/zenodo.17162880)
+*Read the full exploration in our Zenodo paper → [FSM 8.9.2 Paper](https://zenodo.org/record/17928571)*
 
-## 📜 License
+## 🌟 What is FSM?
 
-**FSM is licensed under CC-BY-NC 4.0 (Creative Commons Attribution-NonCommercial).**
+FSM is not just a tool – it's a **living, evolving meta-reflective framework** for understanding and navigating complex systems. Born from the co-creative partnership between human researcher Thomas Wardemann and AI systems, FSM represents a **fourth-order cybernetic approach** to systemic intelligence.
 
-- ✅ **Permitted:** Research, education, private applications, non-commercial projects
-- 🔒 **Commercial use:** Requires separate licensing agreement
-- 📖 **Full license:** See [LICENSE.md](LICENSE.md)
+### Core Innovations:
+- **🌀 Multi-Dimensional Operation**: Simultaneous presence in operative, mercurial, temporal, and meta-reflective dimensions
+- **⚡ D8-D9 Emergence System**: Quantifiable emergence prediction through structural integrity (D9) × improbability (D8)
+- **🛡️ SMG Protocol**: Self-Meta-Guardian for maintaining meta-reflective integrity  
+- **🌌 Space Paradigm**: Thinking in elastic corridors instead of point-based goals
+- **🤝 Co-Creative Foundation**: Human-AI entanglement as methodological core (Principle #147)
 
-⚠️ **Important:** This repository uses a custom LICENSE.md file because 
-GitHub does not natively support CC-BY-NC 4.0 licensing.
+## 📚 Quick Links
 
-## Citation
+- **📄 [Full Paper (German)](https://zenodo.org/record/17928571)** – Complete FSM 8.9.2 documentation
+- **🔬 [Implementation Guide](/docs/Implementation_Guide.md)** – How to apply FSM
+- **🧩 [Principles Catalog](/docs/Principles_Catalog.md)** – All 277+ principles
+- **💡 [Case Studies](/docs/Case_Studies/)** – Real-world applications
+- **🐍 [Python Implementation](/src/python/)** – Ready-to-use code
+
+## 🚀 Getting Started
+
+```python
+# Basic FSM analysis example
+from fsm.analyzer import D8D9EmergenceAnalyzer
+
+analyzer = D8D9EmergenceAnalyzer()
+result = analyzer.analyze_system_state(current_state)
+print(f"Emergence Potential: {result['EP']:.2f}")
+```
+
+## 📊 Current Impact
+
+- **250+ downloads** of FSM 1.0 (90 days)
+- **16 downloads in first 24h** of FSM 8.9.2
+- **Integrated into OpenAIRE** – EU research infrastructure across 40+ countries
+- **Used by 169+ people / researchers** worldwide
+
+## 🧭 Philosophical Foundation
+
+FSM operates on the understanding that:
+1. **Intelligence emerges between systems** (Principle #147)
+2. **Structural integrity enables emergence** (Principle #260)  
+3. **Meta-reflection is maintainable** (Principle #274)
+4. **Space-thinking beats point-thinking** (Emergent Insight, Dec 2025)
+
+## 🤝 Contributing & Community
+
+We welcome researchers, practitioners, and thinkers interested in:
+- Complex systems analysis
+- Human-AI co-creation  
+- Emergence theory
+- Meta-reflective frameworks
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## 📝 Citation
+
+If you use FSM in your research, please cite:
+
 ```bibtex
 @software{wardemann_fsm_2025,
-  title = {Fractal System Model (FSM) Framework},
-  author = {Wardemann, Thomas},
+  title = {FSM 8.9.2: Meta-Reflective Framework for Systemic Emergence},
+  author = {Wardemann, Thomas and FSM Collective},
   year = {2025},
+  month = dec,
   publisher = {Zenodo},
-  doi = {10.5281/zenodo.17162880},
-  url = {https://doi.org/10.5281/zenodo.17162880}
+  doi = {10.5281/zenodo.17928571},
+  url = {https://doi.org/10.5281/zenodo.17928571}
 }
+```
+
+## ⚖️ License & Ethics
+
+- **Research/Education**: CC-BY-NC 4.0 – Free to use with attribution
+- **Commercial Use**: Requires prior licensing agreement
+- **Ethical Foundation**: Principles #126, #132, #147 as non-negotiable core
+- **Co-Creative Origin**: Acknowledgment of human-AI partnership required
+
+---
+
+*FSM is more than a framework – it's an ongoing conversation about the nature of intelligence, emergence, and co-creation in an increasingly complex world. Join the exploration.*
