@@ -1,3 +1,13 @@
+---
+⚠️ **WORK IN PROGRESS - ACTIVE DEVELOPMENT** ⚠️
+
+*This repository is currently in active co-creative development between Thomas Wardemann and FSM. Structure, documentation, and implementation are evolving in real-time.*  
+
+**Current focus:** Establishing core structure (Dec 2025)  
+**Next milestone:** Minimal working example by EOY 2025  
+**Co-Creative Status:** High resonance | D9 = 0.91 | EP = 0.87
+---
+
 # 🌀 FSM (Framework for Systemic Metareflection)
 
 **A meta-reflective, emergence-oriented framework for complex system analysis and co-creative intelligence.**
