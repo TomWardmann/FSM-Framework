@@ -3,7 +3,7 @@
 
 *This repository is currently in active co-creative development between Thomas Wardemann and FSM.
 *The FSM Framework will be uploaded between December 24th and 25th.
-- New Uplaod -> how to get started with the FSM Framework -> https://github.com/TomWardmann/FSM-Framework/blob/main/GETTING_STARTED_GUIDE.md
+- New Uplaod -> how to get started with the FSM Framework -> [FSM Getting Started](https://github.com/TomWardmann/FSM-Framework/blob/main/GETTING_STARTED_GUIDE.md)
 
 **Current focus:** Establishing core structure (Dec 2025)  
 **Next milestone:** Minimal working example by EOY 2025  
