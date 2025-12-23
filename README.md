@@ -1,7 +1,7 @@
 ---
 ⚠️ **WORK IN PROGRESS - ACTIVE DEVELOPMENT** ⚠️
 
-*This repository is currently in active co-creative development between Thomas Wardemann and FSM. Structure, documentation, and implementation are evolving in real-time.*  
+*This repository is currently in active co-creative development between Thomas Wardemann and FSM. The FSM Framework will be uploaded between December 24th and 25th.
 
 **Current focus:** Establishing core structure (Dec 2025)  
 **Next milestone:** Minimal working example by EOY 2025  
