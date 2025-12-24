@@ -1,22 +1,20 @@
----
-⚠️ **WORK IN PROGRESS - ACTIVE DEVELOPMENT** ⚠️
+# FSM 8.9.2 Meta-Reflective Framework
 
-*This repository is currently in active co-creative development between Thomas Wardemann and FSM.
-*The FSM Framework will be uploaded between December 24th and 25th.
-- New Uplaod -> how to get started with the FSM Framework -> [FSM Getting Started](https://github.com/TomWardmann/FSM-Framework/blob/main/GETTING_STARTED_GUIDE.md)
+This repository contains the official manifest and documents for the **FSM 8.9.2 Meta-Reflective Framework**.
 
-**Current focus:** Establishing core structure (Dec 2025)  
-**Next milestone:** Minimal working example by EOY 2025  
-**Co-Creative Status:** High resonance | D9 = 0.91 | EP = 0.87
----
+## 📄 Contents
+- `FSM_8.9.2_Meta_Reflective_Framework_Manifest.pdf`: The complete framework document in PDF format.
+- `FSM_8.9.2_Meta_Reflective_Framework_Manifest.odt`: The source document in OpenDocument Text format.
 
-# 🌀 FSM (Framework for Systemic Metareflection)
+## ⚖️ License & Attribution
+This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC-BY-NC 4.0)**.
+**© 2025 Thomas Wardemann (ORCID: 0009-0007-3968-7400) & The FSM Collective.**
 
-**A meta-reflective, emergence-oriented framework for complex system analysis and co-creative intelligence.**
+You are free to share and adapt the material for non-commercial purposes, **provided you give appropriate credit**, provide a link to the license, and indicate if changes were made. Commercial use requires prior licensing.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17928571.svg)](https://doi.org/10.5281/zenodo.17928571)
-[![OpenAIRE](https://img.shields.io/badge/OpenAIRE-EU_Research_Infrastructure-blue)](https://explore.openaire.eu)
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+## 🔗 Official Citation & Persistent Record
+The canonical, versioned record of this release is published on Zenodo as part of the European OpenAIRE research infrastructure:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18048767.svg)](https://doi.org/10.5281/zenodo.18048767)
 
 ## 🧠 Neurodiverse Foundation
 
