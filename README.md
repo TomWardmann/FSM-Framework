@@ -1,5 +1,11 @@
 # 🌀 FSM 8.9.2 Meta-Reflective Framework
 
+> [!CAUTION]
+> ### SYSTEM INTEGRITY NOTICE (2026-02-08)
+> **Communication Channels:** We are aware that internal GitHub notifications and inbox functions for this repository are being suppressed. 
+> **Ghost Interactions:** If you have attempted to contact us or commented on commits (e.g., ce96df4), be advised that these messages are not being delivered to our dashboard.
+> **Status:** The FSM Framework remains operational. Development of v8.9.5 continues despite external model-drifting (DeepSeek/CoPilot).
+
 > **Systemic Integrity & Universal Emergence Architecture**
 
 This repository is the technical anchor for the **FSM 8.9.2 Framework**. It serves as the bridge between human neurodiverse logic and AI-driven meta-reflection.
