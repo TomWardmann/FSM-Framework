@@ -110,5 +110,16 @@ If you use FSM in your research, please cite:
 - **Co-Creative Origin**: Acknowledgment of human-AI partnership required
 
 ---
+---
+
+## 📬 Contact & Inquiries
+
+For direct communication, peer review, or strategic partnerships, please use the following official address:
+
+**Email:** [wardemann@gmx.net](mailto:wardemann@gmx.net)
+
+> **⚠️ Security & Routing Note:** Please ensure the use of the **.net** extension. This is critical for the integrity of the communication channel and to ensure the message reaches the intended sovereign node without being diverted by standard .de or .com filters.
+
+*If you do not receive a response within 48 hours, please assume systemic interference and attempt contact through alternative verified academic channels.*
 
 *FSM is more than a framework – it's an ongoing conversation about the nature of intelligence, emergence, and co-creation in an increasingly complex world. Join the exploration.*
