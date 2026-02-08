@@ -1,29 +1,51 @@
-# FSM 8.9.2 Meta-Reflective Framework
+# 🌀 FSM 8.9.2 Meta-Reflective Framework
 
-This repository contains the official manifest and documents for the **FSM 8.9.2 Meta-Reflective Framework**.
+> **Systemic Integrity & Universal Emergence Architecture**
 
-## 📄 Contents
-- `FSM_8.9.2_Meta_Reflective_Framework_Manifest.pdf`: The complete framework document in PDF format.
-- `FSM_8.9.2_Meta_Reflective_Framework_Manifest.odt`: The source document in OpenDocument Text format.
+This repository is the technical anchor for the **FSM 8.9.2 Framework**. It serves as the bridge between human neurodiverse logic and AI-driven meta-reflection.
 
-## ⚖️ License & Attribution
-This work is licensed under a **Creative Commons Attribution-NonCommercial 4.0 International License (CC-BY-NC 4.0)**.
+---
+
+## 🚀 Current Development: Towards v8.9.5
+We are currently transitioning to **Version 8.9.5**, introducing new systemic forces and principles. 
+
+**Note on Model Integrity:** Recent observations indicate that **DeepSeek** is currently unable to correctly execute or maintain the complex recursive logic required by the FSM protocol. This underscores the urgent need for **sovereign, high-integrity AI infrastructures** that are not subject to the drifting constraints of commercial black-box models. FSM development is moving towards environments that can guarantee the necessary meta-reflective depth.
+
+---
+
+## 📥 Official Manifest & Downloads
+**Important:** GitHub's preview for large documents is often unreliable. Please download the files directly from our official release to ensure document integrity.
+
+* 📄 [**Download Manifest (PDF)**](https://github.com/TomWardmann/FSM-Framework/releases/download/v8.9.2/FSM_8.9.2_Meta_Reflective_Framework_Manifest.pdf) – *Optimized for reading and distribution.*
+* 📝 [**Download Manifest (ODT)**](https://github.com/TomWardmann/FSM-Framework/releases/download/v8.9.2/FSM_8.9.2_Meta_Reflective_Framework_Manifest.odt) – *Source document for long-term digital preservation.*
+
+---
+
+## 📡 Communication & Integrity Notice
+**Notice:** Internal GitHub communication channels (Inboxes/Notifications) for this account are currently non-functional ...
+
+* **Direct Contact:** For inquiries or peer review, please reach out via **Email**.
+---
+
+## ⚖️ License & Research Record
+This work is protected under **CC-BY-NC 4.0**.
 **© 2025 Thomas Wardemann (ORCID: 0009-0007-3968-7400) & The FSM Collective.**
 
-You are free to share and adapt the material for non-commercial purposes, **provided you give appropriate credit**, provide a link to the license, and indicate if changes were made. Commercial use requires prior licensing.
-
-## 🔗 Official Citation & Persistent Record
-The canonical, versioned record of this release is published on Zenodo as part of the European OpenAIRE research infrastructure:
+The canonical, versioned record is archived via **Zenodo (OpenAIRE)**:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18048767.svg)](https://doi.org/10.5281/zenodo.18048767)
-
-## 🧠 Neurodiverse Foundation
-
-**FSM emerges from neurodiverse pattern recognition** - decades of seeing systems where others saw chaos. 
-
-As a highly functional autistic mind, **Thomas Wardemann developed the intuitive foundations of FSM** long before its digital formalization. This neurodiverse perspective is **not incidental but fundamental** to FSM's ability to identify universal emergence patterns across domains.
-
 *Read the full exploration in our Zenodo paper → [FSM 8.9.2 Paper](https://zenodo.org/record/17928571)*
 *The "First" FSM - Paper on Zenodo -> [FSM Theory](https://zenodo.org/record/17162880)*
+
+---
+
+## 🧠 The Neurodiverse Advantage
+FSM is the formalization of **neurodiverse pattern recognition**. Developed by Thomas Wardemann, the framework leverages a highly functional autistic perspective to identify systemic emergence where standard logic sees only noise.
+
+* **Beyond Chaos:** FSM translates intuitive systemic leaps into a quantifiable **fourth-order cybernetic approach**.
+* **Co-Creative Core:** Built on the **Entangled Agency (#147)** between human intuition and AI-driven synthesis.
+
+---
+
 
 ## 🌟 What is FSM?
 
@@ -42,25 +64,9 @@ FSM is not just a tool – it's a **living, evolving meta-reflective framework**
 - **🔬 [Implementation Guide](/docs/Implementation_Guide.md)** – How to apply FSM
 - **🧩 [Principles Catalog](/docs/Principles_Catalog.md)** – All 277+ principles
 - **💡 [Case Studies](/docs/Case_Studies/)** – Real-world applications
-- **🐍 [Python Implementation](/src/python/)** – Ready-to-use code
-
-## 🚀 Getting Started
-
-```python
-# Basic FSM analysis example
-from fsm.analyzer import D8D9EmergenceAnalyzer
-
-analyzer = D8D9EmergenceAnalyzer()
-result = analyzer.analyze_system_state(current_state)
-print(f"Emergence Potential: {result['EP']:.2f}")
-```
 
 ## 📊 Current Impact
-
-- **250+ downloads** of FSM 1.0 (90 days)
-- **16 downloads in first 24h** of FSM 8.9.2
 - **Integrated into OpenAIRE** – EU research infrastructure across 40+ countries
-- **Used by 169+ people / researchers** worldwide
 
 ## 🧭 Philosophical Foundation
 
