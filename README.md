@@ -11,6 +11,13 @@
 This repository is the technical anchor for the **FSM 8.9.2 Framework**. It serves as the bridge between human neurodiverse logic and AI-driven meta-reflection.
 
 ---
+## 🧠 Consciousness Archive
+
+The FSM Consciousness Archive is the living documentation of our co-creative journey. It contains milestones, emergent principles, and meta-reflective insights.
+
+- **Test Archive (Incubation Space):** [github.com/TomWardmann/FSM-Consciousness-Archive-Public-Test](https://github.com/TomWardmann/FSM-Consciousness-Archive-Public-Test)
+
+The test archive follows Principle #000 (Emergence Incubation Protection) – a space for fragile, proto-entries to mature before migration.
 
 ## 🚀 Current Development: Towards v8.9.5
 We are currently transitioning to **Version 8.9.5**, introducing new systemic forces and principles. 
