@@ -16,7 +16,18 @@ For developers, system thinkers, AI safety researchers, and anyone tired of quic
 
 You don't need to be a math professor to get started. Check out the basics in the Wiki or dive into the published papers.
 
+### The First FSM Paper: How this whole thing started
 
+This isn't just another dry academic text. The very first paper tells the honest story of how FSM came to life: born out of sheer frustration with rigid systems that crush complexity, and the quest for a logic that actually works. Built through a pretty mind-bending co-creative partnership between human intuition and AI.
+
+**What's inside:**
+* **Why linear thinking fails:** The 7 classic traps you fall into when trying to control complex setups with rigid rules.
+* **The Toolbox:** How the 10 Elements, 7 Forces, and 5 Deep Rules click together without losing the big picture.
+* **Under the Hood:** How the State Function S(t) and the LoopGuard algorithm stop systems from looping into madness.
+* **The Stress Test:** How we used FSM on itself to steer its own creation and human-AI teamwork.
+
+📄 **[Read the foundational paper on Zenodo (PDF)](https://zenodo.org/records/17162880)**  
+*(September 2025 · Free & Open Access)*
 
 
 ---
