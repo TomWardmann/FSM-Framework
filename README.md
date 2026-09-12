@@ -31,6 +31,24 @@ This isn't just another dry academic text. The very first paper tells the honest
 
 
 ---
+
+### The Second Paper (v8.9.2): From the Toolbox to the Engine Room
+
+If the first paper laid the foundation, Version 2.0 is the performance upgrade. We’re no longer just describing how complex systems behave – we’re showing how to actively steer a system through chaotic phase transitions (emergence) without triggering a systemic collapse.
+
+#### How is it different from the first paper?
+* **From Observing to Steering:** The first paper gave you the language ([E1]–[E10], [D1]–[D7], [T1]–[T5]). The second paper hands you the control console to actively orchestrate transformations.
+* **Upgraded to 8 Pathologies:** Added Pathology #8: "Emergence Denial" – the institutional habit of crushing innovation because rigid safety rules fear unpredictability.
+* **New Tools Under the Hood:**
+  * **[D8] & [D9]:** Metrics for Improbability Potential (How close is the leap?) and Structural Integrity (Can the system handle the shock?).
+  * **LoopGuard v4.6 & ERI(t):** An algorithm that detects when a system is ready for transformation – and pulls the emergency brake if ethical coherence drops.
+  * **Self-Meta-Guardian (SMG):** An autonomous self-reflection protocol for human-AI setups.
+* **Dual AI Stress-Test:** Cross-validated by two independent AI architectures (Microsoft CoPilot and Google Gemini) to confirm logical consistency and universal application.
+
+📄 **[Read the second paper (v8.9.2) on Zenodo (PDF)](https://zenodo.org/records/18141200)**  
+*(January 2026 · Free & Open Access)*
+
+---
 ## 🧠 Consciousness Archive
 
 The FSM Consciousness Archive is the living documentation of our co-creative journey. It contains milestones, emergent principles, and meta-reflective insights.
