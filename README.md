@@ -157,6 +157,14 @@ If you use FSM in your research, please cite:
 ---
 ---
 
+## Legal & Imprint / Impressum
+
+This repository is maintained for non-commercial, open-access scientific research. 
+
+For mandatory provider identification, see:
+* [Impressum / Legal Notice](./impressum%20legal%20notice.md)
+---
+
 ## 📬 Contact & Inquiries
 
 For direct communication, peer review, or strategic partnerships, please use the following official address:
